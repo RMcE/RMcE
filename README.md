@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RMcE
 - 👀 I’m interested in data analytics, fpl and esports
-- 🌱 I’m currently learning python and improving my SQL
-- 💞️ I’m not currently looking to collaborate 
+- 🌱 I’m currently improving python and SQL skills
 - 📫 How to reach me rorymcevoy1@gmail.com
 
 <!---
